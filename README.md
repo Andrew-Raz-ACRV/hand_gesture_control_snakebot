@@ -4,6 +4,6 @@ It is from the paper in 2017: "Teleoperation of a concentric tube robot through 
 
 This repo is a Microsoft Visual Studio Project compiled in Debug x86.
 
-The main function code is in [AndrewLeapAttempt.cpp](https://github.com/Andrew-Raz-ACRV/hand_gesture_control_snakebot/blob/main/AndrewsLeapAttempt/AndrewsLeapAttempt/AndrewsLeapAttempt.cpp)
+The main code is in [AndrewLeapAttempt.cpp](https://github.com/Andrew-Raz-ACRV/hand_gesture_control_snakebot/blob/main/AndrewsLeapAttempt/AndrewsLeapAttempt/AndrewsLeapAttempt.cpp)
 
 Note: This requires the Nuget package of Eigen to compile
